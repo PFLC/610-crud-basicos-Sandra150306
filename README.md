@@ -16,7 +16,7 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 
 ![Página de Inicio](images/display.png)
 
--Muestra todos los usuarios en una tabla, permitiendo la visualización rápida de la información. También proporciona enlaces para agregar, editar o eliminar usuarios.
+Muestra todos los usuarios en una tabla, permitiendo la visualización rápida de la información. También proporciona enlaces para agregar, editar o eliminar usuarios.
 - **Funcionalidad:** Muestra todos los usuarios de la base de datos en un formato de tabla.
 - **Características:** 
   - Ver todos los usuarios.
@@ -26,7 +26,7 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 
 ![Agregar Usuario](images/add.png)
 
--Permite a los usuarios ingresar nuevos detalles de usuario a través de un formulario, con validación de datos para garantizar la integridad de la información antes de enviarla a la base de datos.
+Permite a los usuarios ingresar nuevos detalles de usuario a través de un formulario, con validación de datos para garantizar la integridad de la información antes de enviarla a la base de datos.
 - **Funcionalidad:** Permite agregar un nuevo usuario a la base de datos.
 - **Características:** 
   - Formulario para ingresar detalles del usuario (nombre, correo electrónico, teléfono móvil, contraseña).
@@ -36,7 +36,7 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 
 ![Editar Usuario](images/edit.png)
 
--Ofrece la capacidad de modificar los detalles de usuarios existentes, presentando un formulario prellenado con la información actual y permitiendo la actualización de los datos en la base de datos.
+Ofrece la capacidad de modificar los detalles de usuarios existentes, presentando un formulario prellenado con la información actual y permitiendo la actualización de los datos en la base de datos.
 - **Funcionalidad:** Permite editar detalles de usuarios existentes.
 - **Características:** 
   - Formulario prellenado con la información actual del usuario.
@@ -44,7 +44,7 @@ Este repositorio contiene una aplicación PHP CRUD (Create, Read, Update, Delete
 
 ### 4. Eliminar Usuario (`delete.php`)
 
--Facilita la eliminación de usuarios de la base de datos basada en su ID, proporcionando una forma de mantener la información actualizada y limpia
+Facilita la eliminación de usuarios de la base de datos basada en su ID, proporcionando una forma de mantener la información actualizada y limpia
 - **Funcionalidad:** Facilita la eliminación de un usuario de la base de datos.
 - **Características:** 
   - Eliminación de información de usuario basada en el ID de usuario.
